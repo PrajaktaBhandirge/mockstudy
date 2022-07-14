@@ -9,3 +9,4 @@ public class Daughter extends mother {
 		System.out.println("addicted for game");
 	}
 }
+// hi you have to add reporter.log 
